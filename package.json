@@ -1,0 +1,12 @@
+{
+  "name": "mcp-testing",
+  "version": "1.0.0",
+  "description": "Testing setup for Model Context Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
